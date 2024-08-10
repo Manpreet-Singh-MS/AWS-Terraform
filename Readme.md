@@ -1,6 +1,6 @@
-# AWS Lambda the Terraform Way
+# AWS Terraform
 
-The objective of this tutorial is to understand AWS Lambda in-depth, beyond executing functions, using Terraform. 
+The objective of this tutorial is to understand AWS with Terraform in-depth, beyond executing functions, using Terraform. 
 This tutorial walks through setting up Terraform, dependencies for AWS Lambda, getting your first Lambda function running, 
 many of its important features & finally integrating with other AWS services. 
 
